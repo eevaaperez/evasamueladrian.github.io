@@ -1,0 +1,39 @@
+#contenedor {
+  width: 80%;
+  margin: 0 auto;
+}
+#cabecera {
+background-color: #6784F8;
+}
+#menu {
+  float: left;
+  width: 100%;
+  background-color:#88F867;
+ 
+  z-index:10px;  
+}
+
+#pie {text-align:center;
+  clear: both;
+background-color: green;
+}
+#fotoislam{
+	position: absolute;
+	left: 750px;
+	top: 100px;
+	
+	
+}
+#fotohindu{
+	position: absolute;
+	left: 750px;
+	top: 275px;
+	
+}
+#fotoafrica{
+	position: absolute;
+	left: 750px;
+	top: 450px;
+	
+}
+
